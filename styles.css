@@ -50,7 +50,7 @@ header p {
 /* Hobbies Section */
 #hobbies {
     padding: 40px 10%;
-    background-color: #ec0c7c;
+    background-color: #4f0cec;
     margin-bottom: 20px;
     border-radius: 8px;
 }
@@ -92,7 +92,7 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: #3498db;
-    color: rgb(126, 194, 18);
+    color: rgb(13, 13, 14);
     position: fixed;
     width: 100%;
     bottom: 0;
