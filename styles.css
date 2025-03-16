@@ -9,13 +9,13 @@
 body {
     font-family: Brush Script;
     background-color: #528ce2;
-    color: #0fdb5d;
+    color: #161616;
 }
 
 /* Header Styles */
 header {
     background-color: #3498db;
-    color: rgb(223, 18, 206);
+    color: rgb(18, 223, 80);
     text-align: center;
     padding: 50px 0;
 }
@@ -91,7 +91,7 @@ header p {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #3498db;
+    background-color: #9fda16;
     color: rgb(13, 13, 14);
     position: fixed;
     width: 100%;
