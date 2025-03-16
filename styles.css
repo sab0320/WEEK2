@@ -15,7 +15,7 @@ body {
 /* Header Styles */
 header {
     background-color: #3498db;
-    color: rgb(18, 223, 80);
+    color: rgb(18, 141, 223);
     text-align: center;
     padding: 50px 0;
 }
@@ -50,7 +50,7 @@ header p {
 /* Hobbies Section */
 #hobbies {
     padding: 40px 10%;
-    background-color: #4f0cec;
+    background-color: #5735a8;
     margin-bottom: 20px;
     border-radius: 8px;
 }
